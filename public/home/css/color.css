@@ -1727,6 +1727,7 @@ a.arrow:before {
 .em-wrapper-header .em-header-top {
   color: #a1a1a1;
   background-color: #ffffff;
+  height: 30px;
 }
 /* line 1283, theme.less */
 .em-wrapper-header .em-header-top a {
